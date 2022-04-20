@@ -1,0 +1,8 @@
+.navigation {
+  display: flex;
+  flex-direction: row;
+}
+
+.link {
+  margin-right: var(--padding-small);
+}

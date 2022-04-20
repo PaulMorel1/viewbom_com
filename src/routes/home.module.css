@@ -1,0 +1,15 @@
+
+.copyPasteForm {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.copyPasteForm textarea {
+  min-height: 150px;
+}
+
+.copyPasteForm button {
+  min-height: 40px;
+  cursor: pointer;
+}
